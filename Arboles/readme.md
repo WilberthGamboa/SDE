@@ -1,0 +1,7 @@
+IN ORDENÑ I R D 
+
+
+POST ORDEN: I D R
+
+
+PRE ORDEN: R I D

@@ -1,0 +1,1 @@
+Basicamente consiste en marcar una diferencia entre los punteros para que asi quede uno al ultimo
